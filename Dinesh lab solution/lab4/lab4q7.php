@@ -1,0 +1,9 @@
+<?php
+$valley=[
+"Kathmandu"=>["NewRoad","DurbarMarg","Thamel"],
+"Lalitpur"=>["Patan","Jwalakhel","Kupondole"],
+"Bhaktapur"=>["Bode","DurbarSquare"]
+];
+echo"<pre>";
+print_r($valley);
+?>
